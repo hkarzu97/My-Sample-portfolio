@@ -1,3 +1,3 @@
 # My-Sample-portfolio
 A sample portfolio made using HTML CSS and JS assigned by akash
-I used skeleton codes from accros and took some help from chatgpt to create this portfolio. Its still under dvelopment. 
+I used skeleton codes from across the web and took some help from chatgpt to create this portfolio. It's still under dvelopment. 
